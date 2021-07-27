@@ -1,0 +1,45 @@
+table {
+  font-family: arial, sans-serif;
+  display: inline;
+  padding: 5px;
+  
+  
+  
+ 
+}
+
+td, th {
+  border: 1px solid  rgb(241, 180, 99);
+  text-align: center;
+  padding: 8px;
+  display: block;
+  border-radius: 5px;
+  box-shadow: 1px 1px 2px  black;
+}
+
+tr:nth-child(even) {
+  background-color: rgba(241, 179, 99, 0.699);
+  
+}
+
+
+h1{
+  text-align: center;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+div{
+  text-align: center;
+}
+input{
+  border:9px;
+  border-radius: 7px;
+  height: 40px;
+  width: 400px;
+}
+button{
+  background-color:  white;
+  width: 100px;
+  height: 30px;
+  border-radius: 4px;
+  box-shadow: 1px 1px 2px  black;
+}
